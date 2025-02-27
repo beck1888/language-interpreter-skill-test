@@ -1,0 +1,8 @@
+.env
+__pycache__
+.DS_Store
+.venv
+.vscode
+mic.mp3
+speaker.mp3
+.tmp
